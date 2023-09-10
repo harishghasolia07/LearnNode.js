@@ -14,3 +14,5 @@ superheroes.all;
 var name = superheroes.random();
 
 console.log(`My name is ${name}!`);
+
+// For install npm package - npm i package_name
