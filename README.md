@@ -16,6 +16,13 @@ Before you start learning Node.js, ensure that you have the following prerequisi
 
 - **Text Editor**: Choose a code editor or integrated development environment (IDE) of your preference. Popular choices include Visual Studio Code, Sublime Text, or Atom.
 
+### Hello World Example
+
+Let's create a simple "Hello World" example to ensure your Node.js installation is working correctly. 
+
+1. Create a new folder for your Node.js projects.
+2. Inside the folder, create a new JavaScript file, e.g., `hello.js`.
+
 Learning Resources
 Here are some valuable resources to help you learn Node.js:
 
@@ -31,12 +38,7 @@ Node.js Frameworks: Explore popular Node.js frameworks like Express.js for build
 
 GitHub: Browse Node.js projects on GitHub to see practical examples and contribute to open-source projects.
 
-### Hello World Example
 
-Let's create a simple "Hello World" example to ensure your Node.js installation is working correctly. 
-
-1. Create a new folder for your Node.js projects.
-2. Inside the folder, create a new JavaScript file, e.g., `hello.js`.
 
 ```javascript
 // hello.js
