@@ -1,7 +1,5 @@
 # LearnNode.js
 
-# Learning Node.js
-
 Welcome to your Node.js learning journey! This README will guide you through getting started with Node.js and provide some resources to help you along the way.
 
 ## What is Node.js?
