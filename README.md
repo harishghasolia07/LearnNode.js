@@ -22,6 +22,9 @@ Let's create a simple "Hello World" example to ensure your Node.js installation 
 
 1. Create a new folder for your Node.js projects.
 2. Inside the folder, create a new JavaScript file, e.g., `hello.js`.
+3. ```javascript
+// hello.js
+console.log("Hello, Node.js!");
 
 Learning Resources
 Here are some valuable resources to help you learn Node.js:
@@ -40,7 +43,5 @@ GitHub: Browse Node.js projects on GitHub to see practical examples and contribu
 
 
 
-```javascript
-// hello.js
-console.log("Hello, Node.js!");
+
 
