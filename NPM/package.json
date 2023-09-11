@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learning about npm",
   "main": "index.js",
-  "type":"module",
+  "type":"module", #For use ES6 latest syntax of node
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
